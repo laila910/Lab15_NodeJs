@@ -47,7 +47,7 @@
  3. Registration form with valid password , before submit as in:
    ![img](img/EnterPasswordWith8Chara.jpg)
  4. After click submit with valid password as in:
-   ![img](img/afterclickContactbutton.jpg)
+   ![img](img/AfterClickSubmitWithPassword8charasOrMoreSuccessfulRegister.jpg)
 
 
 # Part 3
